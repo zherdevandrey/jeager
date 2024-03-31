@@ -1,2 +1,3 @@
 rootProject.name = 'jeager'
+include 'order-service'
 
