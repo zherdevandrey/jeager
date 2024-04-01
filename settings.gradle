@@ -1,3 +1,4 @@
 rootProject.name = 'jeager'
 include 'order-service'
+include 'invoice-service'
 
